@@ -1,0 +1,16 @@
+# Dependencies (the project has none, but npm can create this folder)
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Settings that belong to one person's machine
+.vscode/
+.claude/settings.local.json
+
+# Secrets
+.env

@@ -1,0 +1,2 @@
+# Save text files with LF line endings on every computer (Windows, Mac, Linux, CI).
+* text=auto eol=lf
