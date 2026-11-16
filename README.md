@@ -16,4 +16,3 @@ Setup only. The page itself is added in [t001](docs/backlog/t001.md). See the
 - [AGENTS.md](AGENTS.md): rules for AI agents working in this repo
 - [docs/workflow.md](docs/workflow.md): how we work, step by step
 - [docs/backlog/index.md](docs/backlog/index.md): planned tasks and their state
-- [docs/learning-log.md](docs/learning-log.md): what was learned in each PR
